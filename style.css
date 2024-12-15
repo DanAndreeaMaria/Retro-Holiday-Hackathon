@@ -106,8 +106,7 @@ td {
 .sticky-gif-1:hover {
   animation: shake1 0.5s;
   animation-iteration-count: infinite;
-  cursor: url("mario-paint-cursors-by-mario-nin/Mario\ Paint\ Yellow-Gold\ Monster.cur"),
-    auto;
+  cursor: url("mario-cursors/Mario\ Paint\ Hand.cur"), auto;
 }
 
 /* ********************************** */
@@ -447,8 +446,7 @@ td {
 .sticky-gif-2:hover {
   animation: shake2 0.5s;
   animation-iteration-count: infinite;
-  cursor: url("mario-paint-cursors-by-mario-nin/Mario\ Paint\ Yellow-Gold\ Monster.cur"),
-    auto;
+  cursor: url("mario-cursors/Mario\ Paint\ Hand.cur"), auto;
 }
 
 /* SHAKE EFFECT */
